@@ -1,6 +1,6 @@
 # 💫 About Me:
 * i'm currently learning java full stack
-* check out my resume here-
+* check out my resume here-"C:\Users\kumarswamy\Desktop\my_resume (3).pdf"
 * ask me about programming,java development,
 * reach out me at swamyhiremath32@gmail.com
 
