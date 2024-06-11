@@ -1,5 +1,9 @@
 # 💫 About Me:
-software development
+* i'm currently learning java full stack
+* check out my resume here-
+* ask me about programming,java development,
+* reach out me at swamyhiremath32@gmail.com
+
 
 
 ## 🌐 Socials:
